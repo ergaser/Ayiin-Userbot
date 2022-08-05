@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/522a2922ff2b7f018e94c.mp4">
+  <img src="https://telegra.ph/file/14533de482fed289eab8f.jpg">
 </p>
 
 👩‍💻 Ayiin-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
